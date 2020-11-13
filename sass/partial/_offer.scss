@@ -3,12 +3,7 @@
 
   button {
     background-color: #E02D74;
-    padding: 8px 15px 8px 12px;
-    text-align: center;
-    color: $color-secondary;
-    font-size: 0.8125rem;
-    text-transform: uppercase;
-    margin: 0 0 90px 0;
+    @include button-general;
   }
 
   p {

@@ -6,12 +6,7 @@
 
   button {
     background-color: #7BB84F;
-    padding: 8px 15px 8px 12px;
-    text-align: center;
-    color: $color-secondary;
-    font-size: 0.8125rem;
-    text-transform: uppercase;
-    margin: 0 0 45px 0;
+    @include button-general;
   }
 
   p {
