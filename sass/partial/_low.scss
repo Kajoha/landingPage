@@ -1,0 +1,17 @@
+#text {
+  background-color: $color-secondary;
+  float: left;
+  width: 70%;
+
+  p {
+    margin: 0;
+    font-size: 1rem;
+    color: $color-font-primary;
+  }
+}
+
+#icon {
+  float: left;
+  margin-left: 10%;
+  width: 20%;
+}
