@@ -405,14 +405,6 @@ h2 {
     font-size: 1rem;
     color: #888888; }
 
-.p-unique {
-  font-size: 1rem;
-  color: #888888; }
-
-#newsroom p {
-  font-size: 1rem;
-  color: #ffff; }
-
 .styleW {
   width: 300px;
   height: 300px; }
@@ -425,6 +417,9 @@ h2 {
 
 #blueClear {
   background-color: #A4D3F3; }
+
+#blueDark {
+  background-color: #333C4D; }
 
 #blueTwo {
   background-color: #76B3DD; }
@@ -439,6 +434,10 @@ button {
   font-size: 0.8125rem;
   text-transform: uppercase;
   margin: 35px 0 90px 0; }
+
+.unique {
+  margin: 0;
+  font-weight: bold; }
 
 #wrapper-gallery {
   background-color: #292C34; }
