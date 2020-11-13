@@ -1,0 +1,31 @@
+
+#top {
+  p {
+    display: inline;
+    color: $color-font-primary;
+  }
+
+  ul {
+    padding: 0%;
+    display: inline;
+  }
+  li {
+    float: left;
+    list-style: none;
+    color: $color-font-primary;
+  }
+  li + li {
+    margin-left: 22.5px;
+  }
+}
+
+#url {
+  float: left;
+  width: 28%;
+}
+
+#menuTop {
+  float: left;
+  margin-left: 42%;
+  width: 30%;
+}
