@@ -314,19 +314,19 @@ body {
   max-width: 601px; }
 
 h1 {
-  font-size: 2.8125rem;
+  font-size: 2.125rem;
   color: #292C34; }
 
 h2 {
-  font-size: 2.375rem;
+  font-size: 1.8125rem;
   color: #292C34; }
 
 .primary {
-  font-size: 1.357rem;
+  font-size: 1rem;
   color: #888888; }
 
 .secondary {
-  font-size: 1.357rem;
+  font-size: 1rem;
   color: #ffff; }
 
 .clearfix::after {
@@ -378,11 +378,11 @@ h2 {
     padding: 8px 15px 8px 12px;
     text-align: center;
     color: #ffff;
-    font-size: 1.0625rem;
+    font-size: 0.8125rem;
     text-transform: uppercase;
     margin: 0 0 45px 0; }
   #newsletter p {
-    font-size: 1.357rem;
+    font-size: 1rem;
     color: #888888; }
 
 #book {
@@ -394,19 +394,19 @@ h2 {
     padding: 8px 15px 8px 12px;
     text-align: center;
     color: #ffff;
-    font-size: 1.0625rem;
+    font-size: 0.8125rem;
     text-transform: uppercase;
     margin: 0 0 45px 0; }
   #book p {
-    font-size: 1.357rem;
+    font-size: 1rem;
     color: #888888; }
 
 .p-unique {
-  font-size: 1.357rem;
+  font-size: 1rem;
   color: #888888; }
 
 #newsroom p {
-  font-size: 1.357rem;
+  font-size: 1rem;
   color: #ffff; }
 
 .styleW {
@@ -430,7 +430,7 @@ button {
   padding: 8px 15px 8px 12px;
   text-align: center;
   color: #ffff;
-  font-size: 1.0625rem;
+  font-size: 0.8125rem;
   text-transform: uppercase;
   margin: 0 0 45px 0; }
 
@@ -441,11 +441,11 @@ button {
     padding: 8px 15px 8px 12px;
     text-align: center;
     color: #000000;
-    font-size: 1.0625rem;
+    font-size: 0.8125rem;
     text-transform: uppercase;
     margin: 15px 0 45px 0; }
   #wrapper-gallery p {
-    font-size: 1.357rem;
+    font-size: 1rem;
     color: #ffff; }
 
 #offer {
@@ -455,11 +455,11 @@ button {
     padding: 8px 15px 8px 12px;
     text-align: center;
     color: #ffff;
-    font-size: 1.0625rem;
+    font-size: 0.8125rem;
     text-transform: uppercase;
     margin: 0 0 90px 0; }
   #offer p {
-    font-size: 1.357rem;
+    font-size: 1rem;
     color: #888888; }
 
 #text {
