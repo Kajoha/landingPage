@@ -1,0 +1,42 @@
+.p-unique {
+  font-size: $size-font;
+  color: $color-font-primary;
+}
+
+#newsroom {
+  p {
+    font-size: $size-font;
+    color: $color-secondary;
+  }
+}
+
+.styleW {
+  width: 300px;
+  height: 300px;
+}
+
+.float {
+  float: left;
+}
+
+#blue {
+  background-color: #0071BD;
+}
+
+#blueClear {
+  background-color: #A4D3F3;
+}
+
+#blueTwo {
+  background-color: #76B3DD;
+}
+
+button {
+  background-color: #40ACEB;
+  padding: 8px 15px 8px 12px;
+  text-align: center;
+  color: $color-secondary;
+  font-size: 1.0625rem;
+  text-transform: uppercase;
+  margin: 0 0 45px 0;
+}
