@@ -1,0 +1,18 @@
+#offer {
+  background-color: #F9F9F9;
+
+  button {
+    background-color: #E02D74;
+    padding: 8px 15px 8px 12px;
+    text-align: center;
+    color: $color-secondary;
+    font-size: 1.0625rem;
+    text-transform: uppercase;
+    margin: 0 0 90px 0;
+  }
+
+  p {
+    font-size: $size-font;
+    color: $color-font-primary;
+  }
+}
