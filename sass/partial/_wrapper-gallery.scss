@@ -1,0 +1,18 @@
+#wrapper-gallery {
+  background-color: #292C34;
+
+  button {
+    background-color: $color-secondary;
+    padding: 8px 15px 8px 12px;
+    text-align: center;
+    color: #000000;
+    font-size: 1.0625rem;
+    text-transform: uppercase;
+    margin: 15px 0 45px 0;
+  }
+
+  p {
+    font-size: $size-font;
+    color: $color-secondary;
+  }
+}
