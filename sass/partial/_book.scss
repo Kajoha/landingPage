@@ -1,0 +1,22 @@
+#book {
+  background-color: $color-secondary;
+  img {
+    width: 100%;
+  }
+
+  button {
+    background-color: #F5BA1C;
+    padding: 8px 15px 8px 12px;
+    text-align: center;
+    color: $color-secondary;
+    font-size: 1.0625rem;
+    text-transform: uppercase;
+    margin: 0 0 45px 0;
+  }
+
+  p {
+    font-size: $size-font;
+    color: $color-font-primary;
+  }
+}
+
