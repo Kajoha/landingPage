@@ -30,3 +30,14 @@
 .pad {
   padding: 0% 15% 0% 15%
 }
+
+.button-general {
+  border: none;
+  border-radius: 5px;
+  padding: 19px 34px 19px 34px;
+  text-align: center;
+  color: $color-secondary;
+  font-size: 0.8125rem;
+  text-transform: uppercase;
+  margin: 35px 0 90px 0;
+}
