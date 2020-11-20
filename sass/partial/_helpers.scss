@@ -1,18 +1,12 @@
-
-.primary {
-  font-size: $size-font;
-  color: $color-font-primary;
-}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table; }
 
 .secondary {
   font-size: $size-font;
   color: $color-secondary;
 }
-
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table; }
 
 .margin {
   margin-top: 22px;
@@ -24,11 +18,12 @@
 }
 
 .interMargin {
-  margin-top: 75px;
+  display: inline-block;
+  margin-top: 70px;
 }
 
 .pad {
-  padding: 0% 15% 0% 15%
+  padding: 0% 12% 0% 12%
 }
 
 .button-general {
@@ -39,5 +34,7 @@
   color: $color-secondary;
   font-size: 0.8125rem;
   text-transform: uppercase;
-  margin: 35px 0 90px 0;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  display: inline-block;
 }

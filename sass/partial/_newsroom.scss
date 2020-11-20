@@ -7,12 +7,12 @@
   height: 300px;
 }
 
-#columnOne {
+.colum {
   float: left;
-}
 
-#columnTwo {
-  float: left;
+  p {
+    color: $color-secondary;
+  }
 }
 
 #blue {
@@ -31,10 +31,6 @@
   background-color: #76B3DD;
 }
 
-a {
-  background-color: #40ACEB;
-}
-
 .play {
   display: block;
 }
@@ -43,4 +39,8 @@ a {
   margin: 0;
   padding-top: 61px;
   font-weight: bold;
+}
+
+a {
+  background-color: #40ACEB;
 }
