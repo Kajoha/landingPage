@@ -373,6 +373,9 @@ h2 {
   #top li + li {
     margin-left: 22.5px; }
 
+.nav-link-menu {
+  display: none; }
+
 #url {
   float: left;
   width: 28%; }
@@ -450,6 +453,8 @@ a {
     font-size: 0.8125rem;
     text-transform: uppercase;
     margin: 35px 0 90px 0; }
+  #wrapper-gallery h2 {
+    color: #ffffff; }
   #wrapper-gallery p {
     font-size: 1rem;
     color: #ffff; }
@@ -477,6 +482,11 @@ a {
   width: 20%; }
 
 @media (max-width: 599px) {
+  #menuTop {
+    display: none; }
+  .nav-link-menu {
+    text-align: right;
+    display: block; }
   .styleW {
     width: 100%;
     height: 300px; }
@@ -488,4 +498,15 @@ a {
     align-content: center; }
   #columnTwo {
     float: none;
-    align-content: center; } }
+    align-content: center; }
+  #text {
+    float: none;
+    align-content: center;
+    text-align: center;
+    width: 100%; }
+  #icon {
+    float: none;
+    align-content: center;
+    text-align: center;
+    width: 100%;
+    margin-left: 0%; } }
