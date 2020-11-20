@@ -7,7 +7,11 @@
   height: 300px;
 }
 
-.float {
+#columnOne {
+  float: left;
+}
+
+#columnTwo {
   float: left;
 }
 
@@ -27,7 +31,7 @@
   background-color: #76B3DD;
 }
 
-button {
+a {
   background-color: #40ACEB;
   @include button-general;
 }
@@ -38,5 +42,6 @@ button {
 
 .unique {
   margin: 0;
+  padding-top: 61px;
   font-weight: bold;
 }
