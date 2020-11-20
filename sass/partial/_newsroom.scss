@@ -1,3 +1,7 @@
+#newsroom {
+  background-color: $color-secondary;
+}
+
 .styleW {
   width: 300px;
   height: 300px;
@@ -26,6 +30,10 @@
 button {
   background-color: #40ACEB;
   @include button-general;
+}
+
+.play {
+  display: block;
 }
 
 .unique {

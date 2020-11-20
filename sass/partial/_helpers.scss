@@ -1,0 +1,32 @@
+
+.primary {
+  font-size: $size-font;
+  color: $color-font-primary;
+}
+
+.secondary {
+  font-size: $size-font;
+  color: $color-secondary;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table; }
+
+.margin {
+  margin-top: 22px;
+}
+
+.center {
+  text-align: center;
+  align-content: center;
+}
+
+.interMargin {
+  margin-top: 75px;
+}
+
+.pad {
+  padding: 0% 15% 0% 15%
+}
